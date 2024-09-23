@@ -15,7 +15,7 @@ git config user.email ""
 
 # anaconda pytorch 安装
 
-1. 查看cuda版本：https://blog.csdn.net/Gabriel_wei/article/details/112595642
+1. [查看cuda版本](https://blog.csdn.net/Gabriel_wei/article/details/112595642)
    1. hp zbook 15: cuda 11.7.9
 2. 
 
