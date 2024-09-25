@@ -37,3 +37,7 @@ conda commands:
 |                              |            |
 |                              |            |
 
+
+## python program guideline
+
+whenever possible, avoid explicit for-loops
