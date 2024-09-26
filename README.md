@@ -9,4 +9,5 @@ github dataset and codes: https://github.com/bighuang624/Andrew-Ng-Deep-Learning
 Pytorch docu: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
 
-
+## numpy
+offical numpy docu: https://docs.scipy.org/doc/numpy-1.10.1/reference/generated/numpy.exp.html 
