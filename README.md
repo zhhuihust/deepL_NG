@@ -9,4 +9,3 @@ github dataset and codes: https://github.com/bighuang624/Andrew-Ng-Deep-Learning
 Pytorch docu: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
 
-
