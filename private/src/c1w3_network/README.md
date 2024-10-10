@@ -22,3 +22,6 @@ tanh 函数：
 $$g(z) = tanh(z) = \frac{e^z - e^{-z}}{e^z + e^{-z}}$$
 
 $$g\prime(z)=\frac{dg(z)}{dz} = 1-(tanh(z))^2=1-(g(z))^2$$
+
+### week3 作业详细分析
+https://blog.csdn.net/u013733326/article/details/79702148
