@@ -7,6 +7,8 @@
 3. ssh git@github.com 连接测试出错时，设置host. https://stackoverflow.com/questions/72971645/ssh-connect-to-host-github-com-port-22-connection-timed-out-fatal-could-not-r
 4. 本地可以使用git extension管理分支，git extension 不用特殊设置email和密码
 5. 下载github仓库使用ssh链接，不适用https
+6. BR 电脑使用 https下载，同时关闭校验
+7. Personal Computer 使用ssh链接
 
 ### git set user name and email
 在某个仓库目录下设置：
